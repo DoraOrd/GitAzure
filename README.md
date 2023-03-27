@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/dlordonez/a9653031-65ba-43bb-9b5a-91522f307e06/80501ae0-a2cc-4182-8cf6-64be0418461e/_apis/work/boardbadge/680f4357-d2a6-4b4b-b6cc-99b0693706c0)](https://dev.azure.com/dlordonez/a9653031-65ba-43bb-9b5a-91522f307e06/_boards/board/t/80501ae0-a2cc-4182-8cf6-64be0418461e/Microsoft.RequirementCategory)
 # GitAzure
